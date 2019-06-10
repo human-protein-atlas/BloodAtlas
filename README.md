@@ -5,4 +5,4 @@ Blood is the predominant source for molecular analyses in humans, both in clinic
 
 
 ## Normalization pipeline
-![image](https://github.com/human-protein-atlas/BloodAtlas/blob/master/Fig.S1.A%20schematic%20view%20of%20the%20normalization%20strategy.pdf)
+![image](https://github.com/human-protein-atlas/BloodAtlas/blob/master/Fig.S1.A%20schematic%20view%20of%20the%20normalization%20strategy.png)
