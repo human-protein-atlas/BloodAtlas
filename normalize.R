@@ -11,8 +11,6 @@
 # dependencies: tsv files in /tmp/ folder
 #	output: 
 #			/tmp/norm_expression.tsv (includes both nx with and without limma)
-#			/tmp/norm_pig_expression.tsv
-#			/tmp/norm_mouse_expression.tsv
 #			/tmp/norm_celline_expression.tsv
 #---
 
